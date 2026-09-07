@@ -2,6 +2,10 @@
 
 A small, self-contained blogging platform. No backend, no build step — open `index.html` in a browser, or open the folder in VS Code and use the "Live Server" extension for auto-reload while you edit.
 
+## 🚀 Live Demo
+
+Check out the live website here: [https://blog-mu-six-69.vercel.app/](https://blog-mu-six-69.vercel.app/)
+
 ## Structure
 
 ```
